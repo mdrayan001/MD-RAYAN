@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm MD RAYAN</h1>
-<h3 align="center">Full Stack Web Developer | Data Science & AI Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&pause=1000&color=F7D747&center=true&width=435&lines=Full+Stack+Web+Developer;Data+Science+%26+AI+Enthusiast;" alt="Typing SVG" />
@@ -11,7 +10,8 @@
 
 ### 🎓 Education  
 🏫 **B.Tech in Computer Science**  
-📍 Maulana Azad National Urdu University (MANUU), Hyderabad  
+📍 Maulana Azad National Urdu University (MANUU),     
+   Hyderabad  
 🎓 Graduation Year: **2027**
 
 ---
